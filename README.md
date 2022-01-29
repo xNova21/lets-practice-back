@@ -1,6 +1,6 @@
 # Lets-Practice Backend
 
-Server side for [Let's Practice](https://github.com/xNova21/Lets-Practice "Let's Practice")
+Backend for [Let's Practice](https://github.com/xNova21/Lets-Practice "Let's Practice")
 
 
 
