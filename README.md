@@ -17,7 +17,7 @@ Backend for [Let's Practice](https://github.com/xNova21/Lets-Practice "Let's Pra
 - `DB_NAME` Name of Database
 - `DB_PASSWORD` Password of Database
 - `SALT` Number for BCrypt
-- `SECRET_WORD` Word for BCrypt
+- `SECRET_WORD` Word for json web token
   
 ## Languages and tools
 <a href="https://git-scm.com/" target="_blank"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/> </a>
